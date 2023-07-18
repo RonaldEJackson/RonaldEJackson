@@ -1,6 +1,7 @@
  👋
 <h1>Hi, I'm Ron, an <a href="https://linkedin.com/in/ron-jackson-67a06776">IT Professional</a>☺</h1>
 <!--
+<h2>👨‍💻 Information Technology Projects:</h2>
 **RonaldEJackson/RonaldEJackson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
@@ -8,7 +9,7 @@
 
 
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
