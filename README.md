@@ -7,9 +7,7 @@
   - [osTicket: Prerequisites and Installation](https://github.com/RonaldEJackson/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/RonaldEJackson/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/RonaldEJackson/ticket-lifecycle)
-- <b>Microsoft Azure</b>
-  - [Configuring Active Directory within Azure VMs](https://github.com/RonaldEJackson/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/RonaldEJackson/azure-network-protocols)
+
 
 <h2>🤳Connect with me:</h2>
 
