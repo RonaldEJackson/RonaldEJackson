@@ -1,5 +1,5 @@
 
-<h1>Hi, I'm Ron, an <a href="https://linkedin.com/in/ron-jackson-1958">IT Professional</a>☺</h1>
+<h1>Hi, I'm Ron, an <a href="https://linkedin.com/in/ronjackson-1958">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
