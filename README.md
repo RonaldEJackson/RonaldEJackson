@@ -16,4 +16,4 @@
 
 
 [linkedin]: [https://linkedin.com/in/ronjackson1958](https://www.linkedin.com/feed/?trk=homepage-basic_sign-in-submit)https://www.linkedin.com/feed/?trk=homepage-basic_sign-in-submit
-https://linkedin.com/in/Josh
+https://linkedin.com/in/ronjackson1958
